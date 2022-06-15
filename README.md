@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm currently working for [Roxhill Media](https://roxhillmedia.com/) as a software developer. I've previously worked for companies including [Pod Point](https://pod-point.com/), [Nimbus Hosting](https://nimbushosting.co.uk/) and [Civica](https://www.civica.com/en-gb/).
+I'm currently working for [Roxhill Media](https://roxhillmedia.com/) as a 👨‍💻 software developer. I've previously worked for companies including [Pod Point](https://pod-point.com/), [Nimbus Hosting](https://nimbushosting.co.uk/) and [Civica](https://www.civica.com/en-gb/).
 
-I enjoy tinking with code and
+I enjoy tinking with different technologies and I'm also a big fan of Raspberry Pi and self hosting.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamescharleshudson) 
